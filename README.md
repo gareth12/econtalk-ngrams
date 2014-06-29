@@ -14,7 +14,7 @@ this populates the transcripts folder with text files for each episode. To compu
 
     python ngrams.py
     
-The script will generate output in the ngrams folder, with one file for ngrams consisting of a fixed number of words. For example, the file ngrams3.csv contains a [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) of n-grams of three words in the transcripts. The first few lines of this file read as follows
+The script will generate output in the ngrams folder, with one file for ngrams consisting of a fixed number of words. For example, the file ngrams03.csv contains a [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) of n-grams of three words in the transcripts. The first few lines of this file read as follows
 
     3883,a lot of
     1581,are going to
