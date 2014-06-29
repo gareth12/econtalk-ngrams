@@ -24,6 +24,6 @@ for n in range(1,23):
     # save entries to file
     w = csv.writer(open("ngrams/ngrams"+str(n).zfill(2)+".csv", "w"))
     j=0
-    while j<len(sorted_output) and sorted_output[j][1]>max(3,0.001*sorted_output[0][1]):
+    while j<len(sorted_output) and sorted_output[j][1]>3:
         w.writerow([sorted_output[j][1], sorted_output[j][0]])
         j=j+1
