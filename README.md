@@ -1,7 +1,7 @@
 econtalk-ngrams
 ===============
 
-This repository computes [n-grams](https://en.wikipedia.org/wiki/N-gram) from transcripts of the (EconTalk)[http://www.econtalk.org] podcast.
+This repository computes [n-grams](https://en.wikipedia.org/wiki/N-gram) from transcripts of the [EconTalk](http://www.econtalk.org) podcast.
 
 How to use
 ----------
